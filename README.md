@@ -2,7 +2,7 @@
 
 PhantomJS ([phantomjs.org](http://phantomjs.org)) is a headless WebKit scriptable with JavaScript.
 
-This is a training exercise designed to give a general knowledge about crawl a website with PhantomJS and use the several methods from the [API](http://phantomjs.org/api/).
+This is a training exercise designed to give a general knowledge about how to crawl a website with PhantomJS and use the several methods from the [API](http://phantomjs.org/api/).
 
 ## Exercise
 
