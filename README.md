@@ -7,3 +7,9 @@ This is a training exercise designed to give a general knowledge about how to cr
 ## Exercise
 
 Starting in the following url : [https://github.com/trending](https://github.com/trending), get a screenshot of the first trending repository whose has between 100 and 200 stars today.
+
+## Running the exercise
+
+```
+phantomjs phantom-github.js
+```
